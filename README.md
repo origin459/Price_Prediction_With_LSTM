@@ -12,7 +12,10 @@ This project retrieves historical Bitcoin data from Binance, processes it, and t
    ```bash
    pip install -r requirements.txt
 
-4. **Add your binance user_key and secret_key in the main.py**
+3. **Add your binance user_key and secret_key in the main.py**
    You have to first create an account in Binance and then copy your api keys to import the necessary data.
-  **Please do note that you do not share your keys in any public way.** 
+  **Please do note that you do not share your keys in any public way.**
+
+4. **Run the main.py module to save the model and check the result.**
+5. **Any changes to the model can be done in the model.py file**
 
